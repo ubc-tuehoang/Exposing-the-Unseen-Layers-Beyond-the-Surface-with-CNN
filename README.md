@@ -30,6 +30,10 @@ Zooming in from the upper-right quadrant reveals the object below. As successive
 
 _To access additional layers of these images, navigate to the images folder within the repository._
 
+
+<img width="716" alt="Screen Shot 2024-04-07 at 3 43 03 PM" src="https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-Beyond-the-Surface-with-CNN/assets/86985864/fc365c63-4886-4251-abc0-16e824fa5d20">
+
+
 --------------------------------------
 
 Additional intriguing discoveries emerge upon using the same CNN methodology and the innovative conversion matrices<sup>1</sup> to these images. 
