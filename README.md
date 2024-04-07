@@ -18,7 +18,8 @@ This idea ventures into the obscured territories of Convolutional Neural Network
 -----------------------------------
 
 <img width="693" alt="Screen Shot 2024-04-07 at 1 31 31 PM" src="https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-Beyond-the-Surface-with-CNN/assets/86985864/dcdaa3bc-12a2-4bf7-8d8c-fc2fa5ea73dd">
-_ Source: Webb's First Deep Field https://webbtelescope.org/contents/media/images/2022/035/01G7DCWB7137MYJ05CSH1Q5Z1Z _
+
+Source: Webb's First Deep Field https://webbtelescope.org/contents/media/images/2022/035/01G7DCWB7137MYJ05CSH1Q5Z1Z 
 
 
 Zooming in from the upper-right quadrant reveals the object below. As successive "pixelated" layers are unveiled, diverse facets of the object become apparent. Notably, the chromatic composition of individual pixels within each elliptical filament exhibits similar properties and attributes.
