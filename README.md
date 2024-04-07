@@ -43,6 +43,6 @@ Additional intriguing discoveries emerge upon using the same CNN code methodolog
 
 ----------------------------------------
 
-<sup>1</sup> - Innovative concept of conversion matrices.
+<sup>1</sup> - Innovative concept on the conversion matrices.
 
 
