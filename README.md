@@ -30,7 +30,8 @@ Zooming in from the upper-right quadrant reveals the object below. As successive
 
 --------------------------------------
 
-Additional intriguing discoveries emerge upon using the same CNN code methodology and conversion matrices<sup>1</sup> to these images.
+Additional intriguing discoveries emerge upon using the same CNN methodology and the innovative conversion matrices<sup>1</sup> to these images. 
+
 
 - Codex-Chimalpahin-first-page
    - source: https://www.thehistoryblog.com/wp-content/uploads/2014/09/Codex-Chimalpahin-first-page.jpg 
@@ -43,6 +44,6 @@ Additional intriguing discoveries emerge upon using the same CNN code methodolog
 
 ----------------------------------------
 
-<sup>1</sup> - Innovative concept on the conversion matrices.
+<sup>1</sup> - Novel concept pertaining to conversion matrices.
 
 
