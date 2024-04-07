@@ -57,6 +57,9 @@ Additional intriguing discoveries emerge upon using the same method and the inno
 - Leonardo da Vinci's Salvator Mundi
    - source: https://duckduckgo.com/?q=Salvator+Mundi&iax=images&ia=images
 
+- Leonardo da Vinci's Vitruvian Man 
+   - source: https://en.wikipedia.org/wiki/Vitruvian_Man#/media/File:Da_Vinci_Vitruve_Luc_Viatour.jpg
+
 
 ----------------------------------------
 
