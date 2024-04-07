@@ -1,6 +1,6 @@
 # Exposing-the-Unseen-Layers-Beyond-the-Surface-with-CNN
-##Title: Unveiling the Invisible: Discovering Hidden Realms within CNN's Layers
-###An exploration of the unseen layers within a Convolutional Neural Network (CNN) that goes beyond merely processing the superficial aspects of an image.
+## Title: Unveiling the Invisible: Discovering Hidden Realms within CNN's Layers
+### An exploration of the unseen layers within a Convolutional Neural Network (CNN) that goes beyond merely processing the superficial aspects of an image.
 
 -----------------------------------
 
