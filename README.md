@@ -30,6 +30,10 @@ Zooming in from the upper-right quadrant reveals the object below. As successive
 
 _To access additional layers of these images, navigate to the images folder within the repository._
 
+-----------------------------------
+
+***Note: This represents one of the best conversion matrix<sup>1</sup> computation layers, isolating galaxies and potentially unveiling concealed text beneath the image..***
+
 
 <img width="716" alt="Screen Shot 2024-04-07 at 3 43 03 PM" src="https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-Beyond-the-Surface-with-CNN/assets/86985864/fc365c63-4886-4251-abc0-16e824fa5d20">
 
