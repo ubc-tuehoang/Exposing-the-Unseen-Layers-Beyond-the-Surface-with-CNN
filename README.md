@@ -46,6 +46,6 @@ Additional intriguing discoveries emerge upon using the same CNN methodology and
 
 ----------------------------------------
 
-<sup>1</sup> - Novel concept pertaining to conversion matrices.
+<sup>1</sup> - A novel concept pertaining to conversion matrices.
 
 
