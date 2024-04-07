@@ -15,6 +15,8 @@ This idea ventures into the obscured territories of Convolutional Neural Network
 
 ![image](https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-Beyond-the-Surface-with-CNN/assets/86985864/570c40a9-81b7-4474-bb27-5d61aa75486c)
 
+![image](https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-Beyond-the-Surface-with-CNN/assets/86985864/bcaad6b4-7c89-4e95-ba9e-97a1915d2b30)
+
 
 -----------------------------------
 
