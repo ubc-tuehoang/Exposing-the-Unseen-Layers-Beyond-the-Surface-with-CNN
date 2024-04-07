@@ -17,6 +17,8 @@ This idea ventures into the obscured territories of Convolutional Neural Network
 
 -----------------------------------
 
+
+
 Zooming in from the upper-right quadrant reveals the object below. As successive "pixelated" layers are unveiled, diverse facets of the object become apparent. Notably, the chromatic composition of individual pixels within each elliptical filament exhibits similar properties and attributes.
 
 
