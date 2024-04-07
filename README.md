@@ -29,6 +29,10 @@ Zooming in from the upper-right quadrant reveals the object below. As successive
 
 --------------------------------------
 
+Codex-Chimalpahin-first-page
+source: https://www.thehistoryblog.com/wp-content/uploads/2014/09/Codex-Chimalpahin-first-page.jpg 
+
+![image](https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-Beyond-the-Surface-with-CNN/assets/86985864/1af6995e-240b-49ea-bc1d-75779ce00718)
 
 
 
