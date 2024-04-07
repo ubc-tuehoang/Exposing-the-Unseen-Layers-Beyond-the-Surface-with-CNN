@@ -33,7 +33,7 @@ _To access additional layers of these images, navigate to the images folder with
 
 -----------------------------------
 
-***Note: This represents one of the best conversion matrix calculations layer, isolating galaxies and potentially revealing other elements beneath the image.***
+***Note: After 11 hours of computation, this layer showcases one of the most proficient conversion matrix calculations, effectively isolating galaxies and potentially revealing additional elements beneath the image.***
 
 
 <img width="716" alt="Screen Shot 2024-04-07 at 3 43 03 PM" src="https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-Beyond-the-Surface-with-CNN/assets/86985864/fc365c63-4886-4251-abc0-16e824fa5d20">
