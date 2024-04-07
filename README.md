@@ -59,6 +59,6 @@ Additional intriguing discoveries emerge upon using the same method and the inno
 
 ----------------------------------------
 
-<sup>1</sup> - A novel concept pertaining to conversion matrix.
+__<sup>1</sup> - A novel approach to generating the conversion matrix.__
 
 
