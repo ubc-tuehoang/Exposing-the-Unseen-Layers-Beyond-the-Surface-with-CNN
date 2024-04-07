@@ -1,6 +1,6 @@
 # Exposing-the-Unseen-Layers-Beyond-the-Surface-with-CNN
 ## Title: Unveiling the Invisible: Discovering Hidden Realms within CNN's Layers
-### An exploration of the unseen layers within a Convolutional Neural Network (CNN) that goes beyond merely processing the superficial aspects of an image.
+### An exploration of the unseen layers within a Convolutional Neural Network (CNN) and Conversion Matrices<sup>1</sup> that go beyond merely processing the superficial aspects of an image or a signal. 
 
 -----------------------------------
 
@@ -29,7 +29,7 @@ Zooming in from the upper-right quadrant reveals the object below. As successive
 
 --------------------------------------
 
-Additional intriguing discoveries emerge upon using the same CNN methodology and conversion matrices to these images.
+Additional intriguing discoveries emerge upon using the same CNN code methodology and conversion matrices<sup>1</sup> to these images.
 
 - Codex-Chimalpahin-first-page
    - source: https://www.thehistoryblog.com/wp-content/uploads/2014/09/Codex-Chimalpahin-first-page.jpg 
@@ -41,4 +41,6 @@ Additional intriguing discoveries emerge upon using the same CNN methodology and
    - source: https://www.thehistoryblog.com/wp-content/uploads/2014/09/Codex-Colombino-12th-c.jpg
 
 ----------------------------------------
+
+<sup>1</sup> - Conversion Matrices pending idea. 
 
