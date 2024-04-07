@@ -63,6 +63,6 @@ Additional intriguing discoveries emerge upon using the same method and the inno
 
 ----------------------------------------
 
-_<sup>1</sup> - An innovative method for generating the conversion matrix. (patent pending idea)_
+_<sup>1</sup> - An innovative method for generating the conversion matrix._
 
 
