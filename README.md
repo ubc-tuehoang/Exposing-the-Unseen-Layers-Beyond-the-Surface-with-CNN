@@ -29,20 +29,16 @@ Zooming in from the upper-right quadrant reveals the object below. As successive
 
 --------------------------------------
 
-Codex-Chimalpahin-first-page
+Additional intriguing discoveries emerge upon using the same CNN methodology and conversion matrices to these images.
 
-source: https://www.thehistoryblog.com/wp-content/uploads/2014/09/Codex-Chimalpahin-first-page.jpg 
+- Codex-Chimalpahin-first-page
+   - source: https://www.thehistoryblog.com/wp-content/uploads/2014/09/Codex-Chimalpahin-first-page.jpg 
 
+- Codex-Huamantla-16th
+   - source: https://www.thehistoryblog.com/wp-content/uploads/2014/09/Codex-Huamantla-16th-c.jpg
+ 
+- Codex-Colombino-12th
+   - source: https://www.thehistoryblog.com/wp-content/uploads/2014/09/Codex-Colombino-12th-c.jpg
 
-![image](https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-Beyond-the-Surface-with-CNN/assets/86985864/1af6995e-240b-49ea-bc1d-75779ce00718)
-
-
-![image](https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-Beyond-the-Surface-with-CNN/assets/86985864/7a96a8b4-d4b1-48ff-ac6a-03b9ae0f341b)
-
-![image](https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-Beyond-the-Surface-with-CNN/assets/86985864/24a722ea-b724-4808-b75c-8d932428551a)
-
-![image](https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-Beyond-the-Surface-with-CNN/assets/86985864/b591b3fd-3536-4e1b-a93b-7eb3524ca7ec)
-
-![image](https://github.com/ubc-tuehoang/Exposing-the-Unseen-Layers-Beyond-the-Surface-with-CNN/assets/86985864/45892559-3de6-44bb-956d-c16ddc5a9ddf)
-
+----------------------------------------
 
